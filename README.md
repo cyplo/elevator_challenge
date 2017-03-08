@@ -1,6 +1,8 @@
 # Elevator kata
 * as a user of the elevator I want to get from the floor I am at to my desired floor
 * protobuf binary socket-based interface
+* 'people waiting at floor F' async event
+* you can put your move in the queue, i.e. post 'as an elevator I want to go to floor Fd next'
 
 # Elevator challenge
 * whole day workshop
