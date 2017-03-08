@@ -13,3 +13,8 @@
 * the elevator can take in at most P persons between floors
 * run time of the algorithm counts, as your elevator busy time
 * the elevator that took the most people where they wanted to go wins
+* there is a piece of data that represents a person you need to pull from one floor and then return to destination floor
+* penalty for returning people to the wrong floor
+* if you take more than T time to get form the floor to another floor the maintenance team comes and takes your elevator out of order for Z time
+* if your program crashes while people were inside your elevator - you killed them - your elevator is taken out for investigation by the government for I time
+
